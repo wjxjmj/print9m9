@@ -1,2 +1,2 @@
 # print9m9
-Print a 99 multiplication table by c
+Print a 99 multiplication table by c with only one ";"
